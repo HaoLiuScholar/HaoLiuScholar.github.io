@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech University, specializing in international relations, public administration, and quantitative analysis. Her research interests focus on international political economy and international security—especially economic sanctions—examining their use, success, and consequences, and how this traditional foreign policy tool evolves in today’s highly globalized world. Her work appears in _Journal of Conflict Resolution_, _International Journal of Social Welfare_, and so on. She teaches undergraduate courses on Political Analysis and International Politics.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+| **Interests** | **Education** |
+| --- | --- |
+| Economic sanctions; international political economy; international security; globalization<br>Methods: advanced quantitative analysis, causal inference, network analysis | Ph.D., Political Science, Texas Tech University (2025)<br>M.A., Public Administration, Huazhong University of Science & Technology (2018)<br>B.A., Public Administration, Minzu University of China (2016) |
+
 
 A data-driven personal website
 ======
