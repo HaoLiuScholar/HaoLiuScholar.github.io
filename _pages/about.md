@@ -11,9 +11,9 @@ Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech Universit
 
 ### Interests
 💡 Economic sanctions  
-💡 International political economy  
-💡 international security  
 💡 Globalization  
+💡 international security  
+💡 International political economy  
 💡 Methods: causal inference, network analysis， duration analysis
 
 ### Education
