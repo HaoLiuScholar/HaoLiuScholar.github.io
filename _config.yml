@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dongan Tan"
 title_separator          : "-"
 name                     : &name "Dongan Tan"
-description              : &description "International relations scholar studying sanctions and trade, using advanced quantitative methods."
+description              : &description "International Relations Scholar"
 url                      : https://dongantan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DonganTan/DonganTan.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dongan Tan"
   pronouns         : "she/her"  
-  bio              : "International relations scholar studying sanctions and trade, using advanced quantitative methods."
+  bio              : "International Relations Scholar"
   location         : # 
   employer         : # current institute
   uri              : # URL
