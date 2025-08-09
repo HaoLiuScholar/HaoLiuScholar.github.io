@@ -14,12 +14,12 @@ Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech Universit
 💡 Globalization  
 💡 international security  
 💡 International political economy  
-💡 Methods: causal inference, network analysis， duration analysis
+💡 Methods: causal inference, network analysis, duration analysis
 
 ### Education
-🎓 Ph.D., Political Science, Texas Tech University (2025)  
-🎓 M.A., Public Administration, Huazhong University of Science & Technology (2018)  
-🎓 B.A., Public Administration, Minzu University of China (2016)
+🎓 Ph.D., Political Science, [Texas Tech University](https://www.depts.ttu.edu/politicalscience) (2025)  
+🎓 M.A., Public Administration, [Huazhong University of Science & Technology](https://cpa.hust.edu.cn) (2018)  
+🎓 B.A., Public Administration, [Minzu University of China](https://ms.muc.edu.cn) (2016)
 
 
 
