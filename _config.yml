@@ -26,8 +26,8 @@ author:
   name             : "Dongan Tan"
   pronouns         : "she/her"  
   bio              : "International relations scholar studying sanctions and trade, using advanced quantitative methods."
-  location         : ""
-  employer         : ""
+  location         : # 
+  employer         : # current institute
   uri              : # URL
   email            : "dongan.tan@outlook.com" 
 
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-9552-1612" 
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
