@@ -2,12 +2,12 @@
 title: "The causal effect of economic sanctions on political stability: A two-stage difference-in-differences analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-IJSW-EcoSanc&PoliStab
 excerpt: 'This study employs the two-stage difference-in-differences (2sDiD) estimator to investigate the causal effect of economic sanctions on political stability.'
-date: 2024-10-04
+date: 2025-01-01
 venue: 'International Journal of Social Welfare'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Tan.2024.IJSW.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Tan, D. (2025). The causal effect of economic sanctions on political stability: A two-stage difference-in-differences analysis. <i>International Journal of Social Welfare</i>, 34(1),e12707.'
 ---
