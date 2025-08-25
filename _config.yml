@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Hao Liu"
 title_separator          : "-"
-name                     : &name "Hao LIU"
+name                     : &name "Hao Liu"
 description              : &description "Chemistry Scholar"
-url                      : https://dongantan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://HaoLiuScholar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoLiuScholar/HaoLiuScholar.github.io"
 
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hao Liu"
-  pronouns         : "him/his"  
+  pronouns         : "he/him"  
   bio              : "Ph.D. in Chemistry"
   location         : # 
   employer         : # current institute
   uri              : # URL
-  email            : "dongan.tan@outlook.com" 
+  email            : "hao.liu.scholar@outlook.com" 
 
   # Academic websites
   academia         : # URL
