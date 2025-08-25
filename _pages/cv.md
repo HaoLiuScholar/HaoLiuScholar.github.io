@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<embed src="/files/DonganTan.CV.pdf" type="application/pdf" width="100%" height="900px" />
+<embed src="/files/HaoLiuCV.pdf" type="application/pdf" width="100%" height="900px" />
 
-[📥 Download CV](/files/DonganTan.CV.pdf)
+[📥 Download CV](/files/HaoLiuCV.pdf)
