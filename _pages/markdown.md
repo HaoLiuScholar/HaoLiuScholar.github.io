@@ -6,6 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+{% include toc %}
+
 ## Globalized Coercion: The Strategic Logic and Structural Consequences of Economic Sanctions
 
 ### Introduction
