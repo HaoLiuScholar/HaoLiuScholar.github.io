@@ -13,9 +13,9 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
+  
   - title: "Dissertation"
-    url: /dissertation/ 
+    url: /markdown/
     
   - title: "Teaching"
     url: /teaching/    
@@ -31,6 +31,3 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  # - title: "Guide"
-  #  url: /markdown/
