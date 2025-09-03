@@ -11,7 +11,7 @@ redirect_from:
 
 ## Globalized Coercion: The Strategic Logic and Structural Consequences of Economic Sanctions
 
-My dissertation, Globalized Coercion: The Strategic Logic and Structural Consequences of Economic Sanctions, was completed at Texas Tech University in 2025. The project examines how globalization shapes both the use and success of economic sanctions and, in turn, how sanctions transform patterns of global trade network.
+My dissertation, _Globalized Coercion: The Strategic Logic and Structural Consequences of Economic Sanctions_, was completed at Texas Tech University in 2025. The project examines how globalization shapes both the use and success of economic sanctions and, in turn, how sanctions transform patterns of global trade network.
 
 On this page, I provide a concise overview of the dissertation, including the introduction, conclusion, and selected regression results that highlight the central empirical findings. These materials are intended to give readers a clear sense of the argument, methods, and contributions of the study.
 
@@ -32,9 +32,9 @@ Finally, Chapter 4 casts a structural lens on sanctions by mapping their ripple 
 
 Together, these chapters yield three principal contributions:
 
-* Multidimensional theory of sanctions: By integrating economic, political, and network perspectives, the dissertation transcends dyadic models to explain when and why sanctions succeed or fail.
-* Methodological innovation: The combination of Heckman selection models with network‐analytic measures offers a novel toolkit for capturing both causal leverage and systemic disruption.
-* Policy guidance: The findings equip policymakers with a nuanced understanding of the strategic trade‐offs inherent in coercive diplomacy, highlighting how deeper globalization can both empower and constrain state action.
+* **Multidimensional theory of sanctions**: By integrating economic, political, and network perspectives, the dissertation transcends dyadic models to explain when and why sanctions succeed or fail.
+* **Methodological innovation**: The combination of Heckman selection models with network‐analytic measures offers a novel toolkit for capturing both causal leverage and systemic disruption.
+* **Policy guidance**: The findings equip policymakers with a nuanced understanding of the strategic trade‐offs inherent in coercive diplomacy, highlighting how deeper globalization can both empower and constrain state action.
 
 In the dissertation, I elaborate this framework in detail, test its implications with rigorous empirical methods, and discuss the broader implications for coercive diplomacy in an increasingly interconnected world.
 
@@ -58,7 +58,7 @@ Because of space limitations, I present only the main regression results from ea
 
 ![Outline](http://dongantan.github.io/images/table4.1.png){: width="900"}
 
-![Outline](http://dongantan.github.io/images/figure4.4.png){: width="500"}
+![Outline](http://dongantan.github.io/images/figure4.4.png){: width="800"}
 
 ### Conclusion
 
