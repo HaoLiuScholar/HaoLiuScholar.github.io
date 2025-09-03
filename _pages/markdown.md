@@ -34,13 +34,13 @@ In the dissertation, I elaborate this framework in detail, test its implications
 
 ### Main Results
 
-Due to space limitation, I provide some of main results in each chapter here.
+Because of space limitations, I present only the main regression results from each chapter here.
 
-#### Chapter 1. Economic Globalization and the Use and Success of Sanctions
+#### Chapter 2. Economic Globalization and the Use and Success of Sanctions
 
-#### Chapter 2. Political Globalization and the Use and Success of Sanctions
+#### Chapter 3. Political Globalization and the Use and Success of Sanctions
 
-#### Chapter 3. Sanctions and Global Trade: A Network Analysis Approach
+#### Chapter 4. Sanctions and Global Trade: A Network Analysis Approach
 
 
 ### Conclusion
