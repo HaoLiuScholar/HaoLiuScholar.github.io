@@ -38,10 +38,21 @@ Because of space limitations, I present only the main regression results from ea
 
 #### Chapter 2. Economic Globalization and the Use and Success of Sanctions
 
+![Outline](http://dongantan.github.io/images/table2.1.png){: width="900"}
+
+![Outline](http://dongantan.github.io/images/figure2.2.png){: width="900"}
+
 #### Chapter 3. Political Globalization and the Use and Success of Sanctions
+
+![Outline](http://dongantan.github.io/images/table3.1.png){: width="900"}
+
+![Outline](http://dongantan.github.io/images/figure3.2.png){: width="900"}
 
 #### Chapter 4. Sanctions and Global Trade: A Network Analysis Approach
 
+![Outline](http://dongantan.github.io/images/table4.1.png){: width="900"}
+
+![Outline](http://dongantan.github.io/images/figure4.4.png){: width="900"}
 
 ### Conclusion
 
