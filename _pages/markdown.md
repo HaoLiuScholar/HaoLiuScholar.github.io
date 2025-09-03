@@ -56,7 +56,7 @@ Because of space limitations, I present only the main regression results from ea
 
 #### Chapter 4. Sanctions and Global Trade: A Network Analysis Approach
 
-![Outline](http://dongantan.github.io/images/table4.1.png){: width="900"}
+![Outline](http://dongantan.github.io/images/table4.1.png){: width="500"}
 
 ![Outline](http://dongantan.github.io/images/figure4.4.png){: width="800"}
 
