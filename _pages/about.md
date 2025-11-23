@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech University, specializing in international relations, public administration, and quantitative analysis. Her research interests focus on international political economy and international security—especially economic sanctions—examining their use, success, and consequences, and how this traditional foreign policy tool evolves in today’s highly globalized world. Her work appears in _Journal of Conflict Resolution_, _International Journal of Social Welfare_, and so on. She teaches undergraduate courses on Political Analysis and International Politics.
+Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech University, specializing in international relations and quantitative analysis. Her research interests focus on international political economy and international security—especially economic sanctions—examining their use, success, and consequences, and how this traditional foreign policy tool evolves in today’s highly globalized world. Her work appears in _International Organization_, _Journal of Conflict Resolution_, _International Journal of Social Welfare_, and so on. She teaches undergraduate courses on Political Analysis and International Politics.
 
 ### Interests
 💡 Economic sanctions  
