@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dongan Tan received her Ph.D. in Political Science from Texas Tech University, specializing in international relations and quantitative analysis. Her research interests focus on international political economy and international security—especially economic sanctions—examining their use, success, and consequences, and how this traditional foreign policy tool evolves in today’s highly globalized world. Her work appears in _International Organization_, _Journal of Conflict Resolution_, _International Journal of Social Welfare_, and so on. She teaches undergraduate courses on Political Analysis and International Politics.
+Dr. Hao Liu received his Ph.D. in Chemistry from Texas Tech University, specializing in organic chemistry, molecular chirality, medicinal and bioorganic chemistry, and polymer chemistry. His research interests center on the design and asymmetric synthesis of multilayer 3D chiral frameworks and functional polymers, including aggregation-induced emissive and redox-active materials, and on their potential applications in functional materials and chemical biology. He teaches undergraduate courses in general and organic chemistry laboratories at Texas Tech University’s Department of Chemistry & Biochemistry.
 
 ### Interests
-💡 Economic sanctions  
-💡 Globalization  
-💡 international security  
-💡 International political economy  
-💡 Methods: causal inference, network analysis, duration analysis
+💡 Organic synthesis
+💡 Aggregation-induced emission & photophysics
+💡 Multilayer 3D chirality & functional polymers
 
 ### Education
-🎓 Ph.D., Political Science, [Texas Tech University](https://www.depts.ttu.edu/politicalscience) (2025)  
-🎓 M.A., Public Administration, [Huazhong University of Science & Technology](https://cpa.hust.edu.cn) (2018)  
-🎓 B.A., Public Administration, [Minzu University of China](https://ms.muc.edu.cn) (2016)
+🎓 Ph.D., Chemistry, [Texas Tech University](https://www.depts.ttu.edu/chemistry/) (2025)  
+🎓 B.A., Public Administration, [University of New Brunswick](https://www.unb.ca) (2012)
 
 
 
