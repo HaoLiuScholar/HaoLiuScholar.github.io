@@ -16,7 +16,7 @@ Dr. Hao Liu received his Ph.D. in Chemistry from Texas Tech University, speciali
 
 ### Education
 🎓 Ph.D., Chemistry, [Texas Tech University](https://www.depts.ttu.edu/chemistry/) (2025)  
-🎓 B.A., Public Administration, [University of New Brunswick](https://www.unb.ca) (2012)
+🎓 B.S., Chemical Engineering, [University of New Brunswick](https://www.unb.ca) (2019)
 
 
 
