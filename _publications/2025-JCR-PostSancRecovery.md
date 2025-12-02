@@ -1,15 +1,14 @@
 ---
-title: "The Determinants of Post-Sanctions Economic Recovery"
+title: "Aggregation-Induced Asymmetric Synthesis (AIAS) Leading to More Selective Formation of 2,3-Dihydrobenzofuran Based on Various Sulfur Ylides"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-JCR-PostSancRecovery
-excerpt: 'This study develops a theoretical framework to explain post-sanctions economic recovery, focusing on three key determinants.'
-date: 2025-08-26
-venue: 'Journal of Conflict Resolution'
-paperurl: 'https://journals.sagepub.com/doi/10.1177/00220027251372059'
-bibtexurl: 'http://dongantan.github.io/files/Tan&La.2025.JCR.bib'
-citation: 'Tan, D., & La, H. (2025). The Determinants of Post-Sanctions Economic Recovery. <i>Journal of Conflict Resolution</i>, 0(0),1-28.'
+permalink: /publication/2025S
+excerpt: 'This work highlights the application of aggregation-induced asymmetric synthesis (AIAS) to enhance stereocontrol and expand the synthetic toolbox for accessing functionalized 2,3-dihydrobenzofuran scaffolds.'
+date: 2025-10-23
+venue: 'Synthesis'
+paperurl: 'https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2702-1118'
+bibtexurl: 'http://dongantan.github.io/files/2025S.bib'
+citation: 'Yuan, Q., Yan, J. X., Liu, H., McDonough, P. A., Delgado, L. M., Cozzolino, A. F., ... & Li, G. (2025). Aggregation-Induced Asymmetric Synthesis (AIAS) Leading to More Selective Formation of 2, 3-Dihydrobenzofuran Based on Various Sulfur Ylides. Synthesis.'
 ---
-Why do some countries recover swiftly after economic sanctions are lifted, while others face prolonged stagnation? Despite extensive research on the initiation and effectiveness of sanctions, their aftermath remains understudied. This study develops a theoretical framework to explain post-sanctions economic recovery, focusing on three key determinants: domestic institutional quality, international investment, and sanctions characteristics. Using duration analysis on data from 1960 to 2023, we find that government effectiveness accelerates long-term recovery, while foreign direct investment drives short-term rebounds. Sanctions characteristics yield mixed results: sanction costs show no significant effect, while success and duration are associated with slower recovery. These findings contribute to a broader understanding of how states rebuild after economic disruption, highlighting the role of institutional resilience and external economic reintegration. By bridging the gap between sanctions and economic resilience research, this study provides insights for policymakers seeking to mitigate long-term economic costs and design more effective recovery strategies.
-
+The 2,3-dihydrobenzofuran scaffold represents a key structural motif in many bioactive natural products and pharmaceutical compounds. Herein, we report an efficient [4 + 1] annulation of chiral salicyl N-phosphonyl imine with sulfur ylides under aggregation-induced conditions to access functionalized trans-2,3-dihydrobenzofuran derivatives. Systematic modulation of the THF/EtOH cosolvent ratios enable tunable diastereoselectivity, with diastereomeric ratios improving progressively as solvent polarity increased. Aggregation-induced emission (AIE), aggregation-induced polarization (AIP), and dynamic light scattering (DLS) analyses confirm the formation and evolution of chiral aggregates, providing mechanistic insight into the origin of aggregation-induced synthesis. Overall, this work highlights the application of aggregation-induced asymmetric synthesis (AIAS) to enhance stereocontrol and expand the synthetic toolbox for accessing functionalized 2,3-dihydrobenzofuran scaffolds.
 
